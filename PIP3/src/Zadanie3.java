@@ -6,14 +6,16 @@ public class Zadanie3 {
         Scanner scanner= new Scanner(System.in);
 
         System.out.println("Podaj X: ");
-        int X= scanner.nextInt();
+        int x= scanner.nextInt();
         System.out.println("Podaj Y: ");
-        int Y= scanner.nextInt();
+        int y= scanner.nextInt();
 
-        int X1= Y;
-        int Y1= X;
+        int z= x;
+        x= y;
+        y= z;
 
-        System.out.println("Zamienione X: " + X1);
-        System.out.println("Zamienione Y: " + Y1);
+        System.out.println("Zamienione X: "+x);
+        System.out.println("Zamienione Y: "+y);
+        
     }
 }

@@ -16,6 +16,6 @@ public class Zadanie3 {
 
         System.out.println("Zamienione X: "+x);
         System.out.println("Zamienione Y: "+y);
-        
+
     }
 }

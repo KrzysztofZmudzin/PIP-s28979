@@ -2,27 +2,31 @@ import java.util.Scanner;
 
 public class Zadanie1 {
     public static void main(String[] args) {
-        Scanner scanner= new Scanner(System.in);
 
-        System.out.println("Czy pada?");
-        boolean czyPada= scanner.nextBoolean();
+        Scanner scanner1=new Scanner(System.in);
 
-        System.out.println("Czy swieci slonce?");
-        boolean czySwieciSlonce= scanner.nextBoolean();
+        System.out.println("Czy pada? :");
+        boolean czyPada= scanner1.nextBoolean();
 
-        if (czyPada=true){
-            if (czySwieciSlonce=true)
+        System.out.println("Czy swieci slonce? :");
+        boolean czySwieciSlonce= scanner1.nextBoolean();
+
+        if(czyPada==true){
+            if(czySwieciSlonce==true){
                 System.out.println("Tecza");
-            else{
+            }else {
                 System.out.println("Plucha");
             }
-        }
-        if (czyPada=false){
-            if (czySwieciSlonce=true)
+
+        }if (czyPada==false) {
+            if (czySwieciSlonce==true){
                 System.out.println("Slonecznie");
-            else{
-                System.out.println("Pochmurnie");
+            }else {
+                System.out.println("Pochmurno");
             }
+
         }
+
+
     }
 }

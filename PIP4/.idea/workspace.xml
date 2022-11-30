@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d618be1b-e620-445a-a657-eab7f0e7c381" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadanie5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadanie6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadanie7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadanie8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PIP4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PIP4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zadanie1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadanie1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Zadanie4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadanie4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,21 +41,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Zadanie3">
-    <configuration name="Zadanie1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadanie1" />
-      <module name="PIP4" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zadanie2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadanie2" />
-      <module name="PIP4" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Zadanie8">
     <configuration name="Zadanie3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Zadanie3" />
       <module name="PIP4" />
@@ -63,11 +49,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zadanie4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadanie4" />
+      <module name="PIP4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadanie5" />
+      <module name="PIP4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadanie6" />
+      <module name="PIP4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadanie8" />
+      <module name="PIP4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadanie8" />
+        <item itemvalue="Application.Zadanie6" />
+        <item itemvalue="Application.Zadanie5" />
+        <item itemvalue="Application.Zadanie4" />
         <item itemvalue="Application.Zadanie3" />
-        <item itemvalue="Application.Zadanie2" />
-        <item itemvalue="Application.Zadanie1" />
       </list>
     </recent_temporary>
   </component>
@@ -81,6 +97,8 @@
       <updated>1669733447096</updated>
       <workItem from="1669733448808" duration="5030000" />
       <workItem from="1669738562445" duration="30000" />
+      <workItem from="1669738757929" duration="10000" />
+      <workItem from="1669793473200" duration="16881000" />
     </task>
     <servers />
   </component>

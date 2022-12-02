@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d618be1b-e620-445a-a657-eab7f0e7c381" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Zadanie5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadanie6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadanie7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadanie8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KantorUproszczony.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZadanieDodatkowe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zadanie4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadanie4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,23 +38,9 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Zadanie8">
-    <configuration name="Zadanie3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadanie3" />
-      <module name="PIP4" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zadanie4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadanie4" />
-      <module name="PIP4" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zadanie5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadanie5" />
+  <component name="RunManager" selected="Application.KantorUproszczony">
+    <configuration name="KantorUproszczony" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KantorUproszczony" />
       <module name="PIP4" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,13 +60,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZadanieDodatkowe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZadanieDodatkowe" />
+      <module name="PIP4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZadanieDodatkowePrzyklad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZadanieDodatkowePrzyklad" />
+      <module name="PIP4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KantorUproszczony" />
+        <item itemvalue="Application.ZadanieDodatkowe" />
+        <item itemvalue="Application.ZadanieDodatkowePrzyklad" />
         <item itemvalue="Application.Zadanie8" />
         <item itemvalue="Application.Zadanie6" />
-        <item itemvalue="Application.Zadanie5" />
-        <item itemvalue="Application.Zadanie4" />
-        <item itemvalue="Application.Zadanie3" />
       </list>
     </recent_temporary>
   </component>
@@ -99,6 +96,7 @@
       <workItem from="1669738562445" duration="30000" />
       <workItem from="1669738757929" duration="10000" />
       <workItem from="1669793473200" duration="16881000" />
+      <workItem from="1669972717241" duration="5963000" />
     </task>
     <servers />
   </component>

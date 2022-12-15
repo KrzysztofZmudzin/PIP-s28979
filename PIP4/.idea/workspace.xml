@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d618be1b-e620-445a-a657-eab7f0e7c381" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/KantorUproszczony.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZadanieDodatkowe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,6 +95,8 @@
       <workItem from="1669738757929" duration="10000" />
       <workItem from="1669793473200" duration="16881000" />
       <workItem from="1669972717241" duration="5963000" />
+      <workItem from="1669979597580" duration="57000" />
+      <workItem from="1670068661543" duration="55000" />
     </task>
     <servers />
   </component>
